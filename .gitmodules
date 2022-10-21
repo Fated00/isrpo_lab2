@@ -1,0 +1,3 @@
+[submodule "isrpo"]
+	path = isrpo
+	url = https://github.com/nastyazaginay/isrpo.git
